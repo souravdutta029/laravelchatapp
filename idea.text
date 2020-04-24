@@ -1,0 +1,6 @@
+Ideas:
+Fields for database:
+1. user ID (from)
+2. user id (to)
+3. message
+4. type => 0,1
